@@ -70,7 +70,6 @@ I'm passionate about clean, maintainable code and follow best practices in versi
 I'm always excited to connect with fellow developers, automation enthusiasts, and teams building the future of work.
 
 📧 **Email**: [nurwahid.nw11@gmail.com](mailto:nurwahid.dev@gmail.com)  
-📱 **WhatsApp**: [+62 822-4568-0621](https://wa.me/6282245680621)  
 🔗 **LinkedIn**: [in/nurwah1d](https://www.linkedin.com/in/nurwah1d/)  
 🌐 **GitHub**: [@nurwah1d](https://github.com/nurwah1d)
 
