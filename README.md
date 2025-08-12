@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <h1>Hi, I'm Nurwahid 👋</h1>
-  <p><strong>Robotic Process Automnation | UiPath Developer | Automation Workflow and Programmer</strong></p>
+  <p><strong>Robotic Process Automation | UiPath Developer | Automation Workflow and Programmer</strong></p>
   <img src="https://img.shields.io/badge/-RPA_Developer-blue?style=flat&logo=UiPath&logoColor=white" alt="RPA Developer"/>
   <img src="https://img.shields.io/badge/-UiPath-orange?style=flat&logo=uipath&logoColor=white" alt="UiPath">
   <img src="https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
