@@ -28,7 +28,7 @@ My expertise spans across:
 - **Integration with APIs, SAP, SQL, Excel, Outlook, PDFs, and legacy desktop applications**
 - **Document Understanding (OCR, ABBYY, Google Vision)**
 - **Orchestrator Management (Queues, Assets, Schedules)**
-- **CI/CD with Git & Azure DevOps**
+- **CI/CD with Git & Jenkins**
 
 I'm passionate about clean, maintainable code and follow best practices in version control, logging, and security (e.g., credential management via [Orchestrator](https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/introduction)).
 
@@ -43,7 +43,7 @@ I'm passionate about clean, maintainable code and follow best practices in versi
 | **OCR & AI**       | UiPath Document Understanding, Google Vision, ABBYY |
 | **Integrations**   | REST/SOAP APIs, SQL Server, JSON/XML, Webhooks |
 | **Office & Apps**  | Excel, Word, Outlook, SAP, Web Browsers, WinApp |
-| **DevOps**         | Git, GitHub, Bitbucket, Azure DevOps, CI/CD Pipelines |
+| **DevOps**         | Git, GitHub, Bitbucket, Jenkins, CI/CD Pipelines |
 | **Workflow Tools** | Power Automate, n8n *(currently exploring)* |
 
 ---
