@@ -30,7 +30,7 @@ My expertise spans across:
 - **Orchestrator Management (Queues, Assets, Schedules)**
 - **CI/CD with Git & Azure DevOps**
 
-I'm passionate about clean, maintainable code and follow best practices in version control, logging, and security (e.g., credential management via Orchestrator).
+I'm passionate about clean, maintainable code and follow best practices in version control, logging, and security (e.g., credential management via [Orchestrator](https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/introduction)).
 
 ---
 
